@@ -1,0 +1,10 @@
+ConsoleApp2/.sonarqube
+ConsoleApp2/TestResults
+ConsoleApp2/ConsoleApp2/TestResults
+ConsoleApp2/ConsoleApp2/bin
+*.exe
+ConsoleApp2/ConsoleApp2/obj
+ConsoleApp2/UnitTestProject1/bin
+ConsoleApp2/UnitTestProject1/obj
+ConsoleApp2/UnitTestProject1/TestResults
+ConsoleApp2/.vs
